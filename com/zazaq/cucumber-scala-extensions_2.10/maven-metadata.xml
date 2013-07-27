@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zazaq</groupId>
+  <artifactId>cucumber-scala-extensions_2.10</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130727144917</lastUpdated>
+  </versioning>
+</metadata>

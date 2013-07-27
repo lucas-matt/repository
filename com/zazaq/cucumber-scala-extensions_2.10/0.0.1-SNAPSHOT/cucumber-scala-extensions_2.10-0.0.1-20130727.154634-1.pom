@@ -20,6 +20,16 @@
         <plugin>
           <groupId>org.scala-tools</groupId>
           <artifactId>maven-scala-plugin</artifactId>
+          <executions>
+            <execution>
+              <id>regular-source-compilation</id>
+              <goals>
+                <goal>add-source</goal>
+                <goal>compile</goal>
+                <goal>testCompile</goal>
+              </goals>
+            </execution>
+          </executions>
         </plugin>
         <plugin>
           <artifactId>maven-deploy-plugin</artifactId>
